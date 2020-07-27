@@ -25,7 +25,6 @@
 
 - :computer: I’m currently working as Lead Developer for Lime Engage at Lime Technologies (https://github.com/Lundalogik)
 - 📫 How to reach me: sampson.bryce@protonmail.com
--->
 
 ![Bryces github stats](https://github-readme-stats.vercel.app/api?username=sampsonbryce&show_icons=true&hide_border=true&count_private=true&theme=cobalt)
 
