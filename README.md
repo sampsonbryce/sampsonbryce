@@ -1,4 +1,5 @@
 ### I'm Bryce
+![golang](https://img.shields.io/badge/-Golang-%233be8ff?style=flat-square)
 ![javascript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square)
 ![angular](https://img.shields.io/badge/Angular-fc0303?style=flat-square)
