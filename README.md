@@ -24,7 +24,7 @@
 
 
 
-- :computer: I’m currently working as Software Engineer for [Aura](https://neo4j.com/cloud/aura/) at [Neo4j](https://neo4j.com/)
+- :computer: I’m currently working as Senior Software Engineer/Team Lead for [Aura](https://neo4j.com/cloud/aura/) at [Neo4j](https://neo4j.com/)
 - 📫 How to reach me: sampson.bryce@protonmail.com
 
 ![Bryces github stats](https://github-readme-stats.vercel.app/api?username=sampsonbryce&show_icons=true&hide_border=true&count_private=true&theme=cobalt)
